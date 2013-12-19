@@ -1,0 +1,19 @@
+{
+  "name": "mockup.apartmentcowboy.com",
+  "version": "0.0.0",
+  "description": "Apartment guide to help apartment locators be visible online",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leonel Santos",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leonels/apartmentcowboy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/leonels/apartmentcowboy/issues"
+  },
+  "homepage": "https://github.com/leonels/apartmentcowboy"
+}
